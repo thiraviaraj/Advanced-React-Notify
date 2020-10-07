@@ -15,12 +15,12 @@ Setup Guide:
 `npm install --save react-advanced-notify`
 ```js
 import React from 'react';
-import Notifications, {showToast} from './components/notifications';
+import Notifications, {showToast} from 'react-advanced-notify';
 import './App.css';
 
 function App() {
   let triggerToaster = () => {
-    showToast('User Info Saved Successfully', 'Failed', 9000, 'bottomright');
+    showToast('User Info Saved Successfully', 'Failed', 2000, 'bottomright');
   }
   return (
     <div className="App"><div><div style={{'cursor': 'pointer'}} onClick={()=>triggerToaster()}>Click Me for Notification! </div><br />
