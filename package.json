@@ -2,7 +2,7 @@
   "name": "react-advanced-notify",
   "version": "0.1.1",
   "private": false,
-  "homepage": "https://thiraviaraj.github.io/Advanced-React-Notify",
+  "homepage": ".",
   "babel": {
     "presets": [
       "@babel/preset-react"
