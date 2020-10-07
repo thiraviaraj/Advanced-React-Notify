@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/thiraviaraj/Advanced-React-Notify/static/css/main.9341c337.chunk.css",
+    "main.js": "/thiraviaraj/Advanced-React-Notify/static/js/main.446948db.chunk.js",
+    "main.js.map": "/thiraviaraj/Advanced-React-Notify/static/js/main.446948db.chunk.js.map",
+    "runtime-main.js": "/thiraviaraj/Advanced-React-Notify/static/js/runtime-main.2dbea969.js",
+    "runtime-main.js.map": "/thiraviaraj/Advanced-React-Notify/static/js/runtime-main.2dbea969.js.map",
+    "static/js/2.b05d5c8e.chunk.js": "/thiraviaraj/Advanced-React-Notify/static/js/2.b05d5c8e.chunk.js",
+    "static/js/2.b05d5c8e.chunk.js.map": "/thiraviaraj/Advanced-React-Notify/static/js/2.b05d5c8e.chunk.js.map",
+    "index.html": "/thiraviaraj/Advanced-React-Notify/index.html",
+    "precache-manifest.0f0a21a886b1a546a0e4104bfc3b9629.js": "/thiraviaraj/Advanced-React-Notify/precache-manifest.0f0a21a886b1a546a0e4104bfc3b9629.js",
+    "service-worker.js": "/thiraviaraj/Advanced-React-Notify/service-worker.js",
+    "static/css/main.9341c337.chunk.css.map": "/thiraviaraj/Advanced-React-Notify/static/css/main.9341c337.chunk.css.map",
+    "static/js/2.b05d5c8e.chunk.js.LICENSE.txt": "/thiraviaraj/Advanced-React-Notify/static/js/2.b05d5c8e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2dbea969.js",
+    "static/js/2.b05d5c8e.chunk.js",
+    "static/css/main.9341c337.chunk.css",
+    "static/js/main.446948db.chunk.js"
+  ]
+}
