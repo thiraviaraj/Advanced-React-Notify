@@ -1,0 +1,62 @@
+.greenColor {
+    background-color: aquamarine;
+}
+
+.redColor {
+    background-color: red;
+    color: white;
+}
+
+.topleft {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 240px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    box-shadow: 4px 5px #888888;
+}
+.topright {
+    position: absolute;
+    top: 10px;
+    left: calc(100vw - 250px);
+    width: 240px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 4px 5px #888888;
+}
+.bottomleft {
+    position: absolute;
+    top: calc(100vh - 60px);
+    left: 10px;
+    width: 240px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 4px 5px #888888;
+}
+.bottomright {
+    position: absolute;
+    top: calc(100vh - 60px);
+    left: calc(100vw - 250px);
+    width: 240px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 4px 5px #888888;
+}
+
+.paddingLeft10 {
+    padding-left: 10px;
+}
+
+.cursorPointer {
+    cursor: pointer;
+}
