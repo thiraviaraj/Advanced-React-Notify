@@ -2,7 +2,7 @@
   "name": "react-advanced-notify",
   "version": "0.1.1",
   "private": false,
-  "homepage": "https://github.com/thiraviaraj/Advanced-React-Notify",
+  "homepage": "https://thiraviaraj.github.io/Advanced-React-Notify",
   "babel": {
     "presets": [
       "@babel/preset-react"
@@ -12,6 +12,7 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "gh-pages": "^3.1.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3"
@@ -21,6 +22,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "publish:npm": "rm -rf dist && mkdir dist &&  babel src/components -d dist --copy-files"
   },
   "eslintConfig": {
